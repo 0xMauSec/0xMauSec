@@ -26,6 +26,7 @@ _This section is actively updated as write-ups get published._
 ## Projects
 
 -  **[WallPapersKaliLinuxInstall](https://github.com/0xMauSec/WallPapersKaliLinuxInstall)** — Installation script for Kali Linux wallpapers, built to streamline setup of security-focused Linux environments.
+- **[LaboratorioSQLI](https://github.com/0xMauSec/LaboratorioSQLI)** — Intentionally vulnerable web application built to practice SQL Injection techniques manually and with SQLMap in a controlled environment.
 
 _More projects are on the way — this section is actively updated._
 
