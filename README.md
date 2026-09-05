@@ -20,7 +20,7 @@ Documenting my process as I work through machines and labs — methodology, find
 - **DockerLabs** — _coming soon_
 - **TryHackMe** — _coming soon_
 - **HackTheBox** — _coming soon_
-
+- **PortSwiggerLabs** — _coming soon_
 _This section is actively updated as write-ups get published._
 
 ## Projects
